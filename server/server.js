@@ -34,7 +34,6 @@ let server = require(`${__dirname}/../config/common`);;
 
 app.listen(server.development.expressPort)
 console.log("---------------------------")
-console.log("WELCOME TO MIS 2.0")
+console.log("@primayudantra")
 console.log("SERVER: " + server.development.expressHost + " PORT : " + server.development.expressPort)
-console.log("by @Amartha Dev")
 console.log("---------------------------")
